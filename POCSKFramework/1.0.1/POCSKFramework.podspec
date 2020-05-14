@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                 }
     s.author             = { "$(git config user.name)" => "$(git config user.email)" }
     s.source       = { :git => 'https://github.com/iamsnowz/POCSKFramework.git', :tag => "#{s.version}" }
-    s.vendored_frameworks = 'POCSKFramework.framework', 'EkoChat.framework'
+    s.vendored_frameworks = 'POCSKFramework.framework', 'EkoChat.framework', 'Realm.framework'
     s.platform = :ios
     s.swift_version = "5"
     s.ios.deployment_target  = '13.2'
