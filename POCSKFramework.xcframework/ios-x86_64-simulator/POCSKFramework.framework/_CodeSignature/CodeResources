@@ -6,27 +6,27 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Tdg3fh4yAZmMLqdK9FRHRVjgFU8=
+		gQj2nqV6Htkeo/cqGu/jgonnxX4=
 		</data>
 		<key>ChannelHeaderInfoView.nib</key>
 		<data>
-		sB+Cn3PZTwP1cwH5vBlvMd7XNSY=
+		wpx3eE1XgtgGDKqnelwXNjS8ZEo=
 		</data>
 		<key>FeedPostFooterCell.nib</key>
 		<data>
-		FvjiqS4YQDv1OJasEMAXJmLl7RE=
+		gwit2cCChfF/49ST4TaqTlvVQqw=
 		</data>
 		<key>FeedPostHeaderCell.nib</key>
 		<data>
-		4vRyptn0oA/oc23d7Dl01DcCTxw=
+		LrrdPDfvmpg3qOCtNlqaSHB48FM=
 		</data>
 		<key>FeedPostMultilineLabelCell.nib</key>
 		<data>
-		RdfuV0mLY2W0lJvhAiZTZMDslYI=
+		qXCuRfBjvW2xbWZqMndGwIhGm6k=
 		</data>
 		<key>Headers/POCSKFramework-Swift.h</key>
 		<data>
-		y+m1K2KWeslMkP1jbSV/6deUeuQ=
+		D6t2cVwI2Ay8FG5kgodTyhi1wcM=
 		</data>
 		<key>Headers/POCSKFramework.h</key>
 		<data>
@@ -34,31 +34,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HmO17MKBP4KYCeOwrujWzGYBuT8=
+		obJLKkxbSAQwWoIBDm1f/43xO0Y=
 		</data>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QY/5K6Bm/Wbd3eujA0XgJ3caMaw=
+		+ERfyb05g13V9oGe2kz14RKpNBw=
 		</data>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JgJh3v+yks2Pi63PccgMjUI5KZI=
+		9F0PTIBAVh+qpSbujfZryj0rids=
 		</data>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W7rnMp5q14Xcpu3im1Y9tiQNCyU=
+		tDD0RO6OQY/gB4DZklHamgO0oTg=
 		</data>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		QY/5K6Bm/Wbd3eujA0XgJ3caMaw=
+		+ERfyb05g13V9oGe2kz14RKpNBw=
 		</data>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		JgJh3v+yks2Pi63PccgMjUI5KZI=
+		9F0PTIBAVh+qpSbujfZryj0rids=
 		</data>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		W7rnMp5q14Xcpu3im1Y9tiQNCyU=
+		tDD0RO6OQY/gB4DZklHamgO0oTg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>POCSK.storyboardc/72t-Ck-fT0-view-i4i-Rt-QBl.nib</key>
 		<data>
-		zDqjyLw83sOFzWVgdk87rD7i0YU=
+		FgXi+jHhI6EeXqEFTQ+OFlM8aso=
 		</data>
 		<key>POCSK.storyboardc/Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>POCSK.storyboardc/POCUserFeedViewController.nib</key>
 		<data>
-		1g83bwkkznAr4BiW0r1i+JUh1R0=
+		kNWqNIMuAViNWpCMofd/QfeBFo4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -83,42 +83,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wuCDZ/8eK5EX6b1kqK3JTzqNeuMeXssNF8AXrBfCyj0=
+			pB/WmZux21gDEu08KtrFjoooZo/GImuZbq5SOMwIncw=
 			</data>
 		</dict>
 		<key>ChannelHeaderInfoView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4AcvfdD7CvruKgKEYPQ4tGOBUWSGMYF1+cDJJPNeWHI=
+			JazT0V/gDCcM3xYfYwI979nhCUu+/NnNeEaWeGpxxdI=
 			</data>
 		</dict>
 		<key>FeedPostFooterCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/PWGeOsx8/AwsHgem4FEfon5VvY1oJzVV7Dn3kNfOqQ=
+			DkXEIyntpWnrTqUXWIqV0SOHxhDhVK7hyEYA+kAfnAE=
 			</data>
 		</dict>
 		<key>FeedPostHeaderCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yburw3xBu/n91vDI6KGh41crzLRuU8NHaX9NU/S7arc=
+			VoOlfSypNUcjLC1nRdh+zQqzRmNbgVhxOSq841cpkpA=
 			</data>
 		</dict>
 		<key>FeedPostMultilineLabelCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D7UaZkMBPA1QlJCx38W1ErBE7JaRIIQLo3Lg0NhRQ+4=
+			yV8FFUaoPUK0B1P/OwD4ALcDLPp7M+7u1eCIl96h4jw=
 			</data>
 		</dict>
 		<key>Headers/POCSKFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xYnDlR/kIuy1oN2XQf86ysOGclkvjx1RUJxCa1mFAqI=
+			oDld4rGk0OoPhsTK9nUhho388SBm8GEauezYqotrKcE=
 			</data>
 		</dict>
 		<key>Headers/POCSKFramework.h</key>
@@ -132,42 +132,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O10LifTTvk3cy5c14Pi87ZxwBjnp1JitkxZ4TS8s0RM=
+			hTPWdjI55+Txf4O6H719qmlgclYyAYqS05sdFW4qkXk=
 			</data>
 		</dict>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			feXOAOQawTg9rQgReHkG1NEp3Blwi0vWpAGUnSuTxD4=
+			d5L06ow2e63auHSRK7WD9Xk88JIjglXIIO6i3uiZs/E=
 			</data>
 		</dict>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W7NVOCb9VTSMOPyeAsradf0wT0wjwoD/yILz5ZeyqS0=
+			DxFC8OUzWE/K2D91tEpIxT/9CqMi8LaNtwxcx8ohLHo=
 			</data>
 		</dict>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O10LifTTvk3cy5c14Pi87ZxwBjnp1JitkxZ4TS8s0RM=
+			hTPWdjI55+Txf4O6H719qmlgclYyAYqS05sdFW4qkXk=
 			</data>
 		</dict>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			feXOAOQawTg9rQgReHkG1NEp3Blwi0vWpAGUnSuTxD4=
+			d5L06ow2e63auHSRK7WD9Xk88JIjglXIIO6i3uiZs/E=
 			</data>
 		</dict>
 		<key>Modules/POCSKFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W7NVOCb9VTSMOPyeAsradf0wT0wjwoD/yILz5ZeyqS0=
+			DxFC8OUzWE/K2D91tEpIxT/9CqMi8LaNtwxcx8ohLHo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -181,7 +181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UIESOJdeQy6ZHkqjYiHlrGyRuQHA7TT0rgwAxym56n4=
+			mmTfeWOD4PuIGS0id4CC4imi4LJKRF0N14D9eyio1nA=
 			</data>
 		</dict>
 		<key>POCSK.storyboardc/Info.plist</key>
@@ -195,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AsxAspUGKQdXiLNKKfdAb52zGEMnIRecLSvSBdhJNMI=
+			GsUGMdtHzBIGsY6rVDsA7JUGiDTZsNc8mfRfYq9Ti7c=
 			</data>
 		</dict>
 	</dict>
