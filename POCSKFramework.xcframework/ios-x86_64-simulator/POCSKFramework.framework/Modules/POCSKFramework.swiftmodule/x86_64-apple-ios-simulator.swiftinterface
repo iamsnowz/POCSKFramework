@@ -1,0 +1,59 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
+// swift-module-flags: -target x86_64-apple-ios13.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name POCSKFramework
+import Foundation
+@_exported import POCSKFramework
+import Swift
+import UIKit
+extension UIView {
+  public func loadNib() -> UIKit.UIView
+}
+public struct ChannelHeaderInfoSetting {
+}
+public protocol ChannelHeaderInfoViewDelegate : AnyObject {
+  func userInfoDidJoin()
+  func userInfoDidSetting()
+  func userInfoDidMessage()
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class ChannelHeaderInfoView : UIKit.UIView {
+  @objc deinit
+}
+public struct SKColorSet {
+  public static let primaryColor: UIKit.UIColor
+}
+public struct SKFontStyleSet {
+}
+@_hasMissingDesignatedInitializers public class SKTheme {
+  public static func setup(headerInfoTheme theme: POCSKFramework.SKHeaderInfoTheme)
+  @objc deinit
+}
+public struct SKHeaderInfoTheme {
+  public init(backgroundColor: UIKit.UIColor = .white, tintColor: UIKit.UIColor = SKColorSet.primaryColor)
+}
+@objc @_inheritsConvenienceInitializers public class POCUserFeedViewController : UIKit.UIViewController, POCSKFramework.UserPostsFeedAdapterDelegate, POCSKFramework.ChannelHeaderInfoViewDelegate {
+  @objc override dynamic public func viewDidLoad()
+  public static func instance() -> POCSKFramework.POCUserFeedViewController
+  public func userPostDidLike(_ adapter: POCSKFramework.UserPostsFeedAdapter, userId: Swift.String)
+  public func userPostDidComment(_ adapter: POCSKFramework.UserPostsFeedAdapter, userId: Swift.String)
+  public func userInfoDidSetting()
+  public func userInfoDidJoin()
+  public func userInfoDidMessage()
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+public protocol UserPostsFeedAdapterDelegate : AnyObject {
+  func userPostDidLike(_ adapter: POCSKFramework.UserPostsFeedAdapter, userId: Swift.String)
+  func userPostDidComment(_ adapter: POCSKFramework.UserPostsFeedAdapter, userId: Swift.String)
+}
+@objc @_inheritsConvenienceInitializers public class UserPostsFeedAdapter : ObjectiveC.NSObject, UIKit.UITableViewDataSource, UIKit.UITableViewDelegate {
+  weak public var delegate: POCSKFramework.UserPostsFeedAdapterDelegate?
+  public func setup(in tableView: UIKit.UITableView)
+  @objc public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @objc public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @objc public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @objc public func tableView(_ tableView: UIKit.UITableView, heightForRowAt indexPath: Foundation.IndexPath) -> CoreGraphics.CGFloat
+  @objc public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+  @objc override dynamic public init()
+  @objc deinit
+}
